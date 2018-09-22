@@ -1,5 +1,5 @@
-* [The mission](#The-mission)
-* [Site documentation](#GWT-Documentation)
+* [The mission](#the-mission)
+* [Site documentation](#gwt-documentation)
 
 
 # The mission
