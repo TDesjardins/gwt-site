@@ -4,7 +4,7 @@
 
 # The mission
 
-This is an initiative to update the GWT site and enrich with new content, the gaol is to update the current content and to add content that refers to the new libs/frameworks related to GWT.
+This is an initiative to update the GWT site and enrich with new content, the goal is to update the current content and to add content that refers to the new libs/frameworks related to GWT.
 
 Also make the site a good place for starters, by adding tutorials, demo, and tools that help them start using GWT with minimum efforts. 
 
