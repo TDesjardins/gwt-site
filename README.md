@@ -6,7 +6,9 @@
 
 This is an initiative to update the GWT site and enrich with new content, the goal is to update the current content and to add content that refers to the new libs/frameworks related to GWT.
 
-Also make the site a good place for starters, by adding tutorials, demo, and tools that help them start using GWT with minimum efforts. 
+Also make the site a good place for starters, by adding tutorials, demo, and tools that help them start using GWT with minimum efforts.
+
+> this is an opinionated project - the goal here is not to get new opinions on what the docs should look like, but to break up many small segments of work to see if we can end up with a better overall project
 
 ## Improvments outlines
 
