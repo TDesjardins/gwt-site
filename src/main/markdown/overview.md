@@ -3,7 +3,7 @@ Overview
 
 GWT is a development toolkit for building and optimizing complex browser-based applications. Its goal is to enable productive development of high-performance web applications without the developer having to be an expert in browser quirks, XMLHttpRequest, and JavaScript. GWT is used by many products at Google, including AdWords, AdSense, Flights, Hotel Finder, Offers, Wallet, Blogger. It's open source, completely free, and used by thousands of developers around the world.
 
-[What's New in GWT 2.8.0](release-notes.html#Release_Notes_2_8_0)
+[What's New in GWT 2.8.2](release-notes.html#Release_Notes_2_8_2)
 
 ## What's inside the toolbox?
 
@@ -21,6 +21,8 @@ The [Plugin for Eclipse](https://developers.google.com/eclipse/index) provides I
 
 *   [Get Started](usingeclipse.html)
 
+Idea IntelliJ Ultimate edition offers a built-in plugin to support GWT development.
+
 ## Developing with GWT
 
 ### <i class="icon_write"></i> Write
@@ -33,9 +35,9 @@ You aren't limited to pre-canned widgets either. Anything you can do with the br
 
 ### <i class="icon_debug"></i> Debug
 
-You can debug AJAX applications in your favorite IDE just like you would a desktop application, and in your favorite browser just like you would if you were coding JavaScript. The GWT developer plugin spans the gap between Java bytecode in the  debugger and the browser's JavaScript.
+You can debug AJAX applications in your favorite IDE just like you would a desktop application, and in your favorite browser just like you would if you were coding JavaScript. The GWT code server and the source mapping feature spans the gap between Java bytecode in the  debugger and the browser's JavaScript.
 
-Thanks to the GWT developer plugin, there's no compiling of code to JavaScript to view it in the browser. You can use the same edit-refresh-view cycle you're used to with JavaScript, while at the same time inspect variables, set breakpoints, and utilize all the other debugger tools available to you with Java. And because GWT's development mode is now in the browser itself, you can use tools like Firebug and Inspector as you code in Java.
+Thanks to the GWT Super Dev Mode, there's no compiling of code to JavaScript to view it in the browser. You can use the same edit-refresh-view cycle you're used to with JavaScript, while at the same time inspect variables, set breakpoints, and utilize all the other debugger tools available to you with Java. And because GWT's development mode is now in the browser itself, you can use tools like Firebug and Inspector as you code in Java.
 
 ### <i class="icon_optimise"></i> Optimize
 
