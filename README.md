@@ -10,15 +10,15 @@ Also make the site a good place for starters, by adding tutorials, demo, and too
 
 > this is an opinionated project - the goal here is not to get new opinions on what the docs should look like, but to break up many small segments of work to see if we can end up with a better overall project
 
-## Improvments outlines
+## Improvements outlines
 
-### The Home page has 4 main links :
+### The home page has four main links :
 
 - #### Overview
 
-	- The overview seems to be ok needs some update. maybe the list of the Apps built with GWT.
+	- The overview seems to be ok needs some update. maybe the list of the apps built with GWT.
 
-  - Why should i use GWT.
+  - Why should I use GWT.
 
   
 - #### Download
@@ -29,7 +29,7 @@ Also make the site a good place for starters, by adding tutorials, demo, and too
 - #### Getting started
 	this needs most of the work.
 
-	- This still uses ANT, so we need to use MAVEN at least here.
+	- This still uses ANT, so we need to use MAVEN at least here (or Gradle).
 
   - uses OLD devmode so might change to super devmode.
 
@@ -41,7 +41,7 @@ Also make the site a good place for starters, by adding tutorials, demo, and too
 
 - #### Docs
 
-	- Split the tutorials from the documentation maybe add them on the home page.
+  - Split the tutorials from the documentation maybe add them on the home page.
 
   - Add tutorial for each section in the documentation maybe at the end of each section.
 
@@ -49,29 +49,30 @@ Also make the site a good place for starters, by adding tutorials, demo, and too
 
   - Rest is common, so maybe introduce a rest tutorial with different rest clients.
 
-  - Introducing the new RPC from colin.
+  - Introducing the new RPC from Colin.
 
   - Tutorials for building GWT apps with different back-end techs spring-boot, vertx ..etc
 
   - Tutorials for JsInterop and how to interact with other JS Libs.
 
+  - Remove old / deprecated stuff
 
 **In the home page we can introduce the following new topics:**
 
 - Community
 
-  - Listing GWT libs and frameworks
+  - Listing GWT libs and frameworks (good collection at https://gwt.zeef.com/awesomegwt )
   - Built with GWT.
 
 
-- JCL/GWT3
-  - GWT3.0 progress
-  - Writing APPs for GWT3.0
-  - GWT3 VS GWT2
-  - Help get GWT3 out.
+- JCL / GWT 3
+  - GWT 3.0 progress
+  - Writing Apps for GWT 3.0
+  - GWT 3.0 vs. GWT 2
+  - Help get GWT 3.0 out.
 
 
-- Tutorials - moved out from Docs
+- Tutorials - moved out from docs
 
   - List all tutorials.
 
